@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1 (2025-11-28)
+
+Full Changelog: [v0.4.0...v0.4.1](https://github.com/onkernel/hypeman-go/compare/v0.4.0...v0.4.1)
+
 ## 0.4.0 (2025-11-26)
 
 Full Changelog: [v0.3.0...v0.4.0](https://github.com/onkernel/hypeman-go/compare/v0.3.0...v0.4.0)
