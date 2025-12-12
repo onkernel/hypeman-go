@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.8.0 (2025-12-12)
+
+Full Changelog: [v0.7.0...v0.8.0](https://github.com/onkernel/hypeman-go/compare/v0.7.0...v0.8.0)
+
+### Features
+
+* **encoder:** support bracket encoding form-data object members ([8ab31e8](https://github.com/onkernel/hypeman-go/commit/8ab31e89c70baa967842c1c160d0b49db44b089a))
+
 ## 0.7.0 (2025-12-11)
 
 Full Changelog: [v0.6.0...v0.7.0](https://github.com/onkernel/hypeman-go/compare/v0.6.0...v0.7.0)
